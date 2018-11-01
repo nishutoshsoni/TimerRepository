@@ -3,7 +3,7 @@ package timerpackage;
 	/*
 	 * Simple program to demonstrate use of timer package.
 	 * Change the value of time in Time.txt file, in the root folder.
-	 * */
+	 */
 
 import java.io.BufferedReader;
 import java.io.FileReader;
